@@ -55,7 +55,6 @@ class Spotify:
         limit = 50
         offset = 0
         results = self.make_request(limit=limit, offset=offset)
-        print(f'results ==> {results}')
         self.total_tracks = results['total']
         print(f'Total tracks: {self.total_tracks}')
         items = results['items']
