@@ -1,8 +1,6 @@
 name: Update Saved Tracks
 
 on:
-  schedule:
-    - cron: '0 0 15 * *'
   workflow_dispatch:        
 
 permissions:
