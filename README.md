@@ -6,6 +6,13 @@ When you **fork this repository** and follow a few setup steps, you’ll be able
 
 ---
 
+> 📝 **Why this exists:**  
+> Sometimes Spotify removes or loses saved tracks from user libraries.  
+> By running this workflow regularly, you can create a history of your saved tracks over time.  
+> If tracks go missing, you can detect the changes using Git and recover the track info from past JSON versions.
+
+---
+
 ## ✨ What It Does
 
 - Authenticates with your Spotify account using Spotipy (via stored GitHub secrets)
