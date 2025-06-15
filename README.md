@@ -23,6 +23,17 @@ When you **fork this repository** and follow a few setup steps, you’ll be able
 
 ## ⚙️ Setup Guide
 
+### 📌 0. Fork This Repository
+
+To get started, first **fork this repository** to your own GitHub account:
+
+1. Click the **"Fork"** button in the top-right corner of this page.
+2. This will create a copy of the repository under your account, where you can add secrets and run workflows.
+
+> 🛠 All the following setup steps should be done in your **forked repository**, not this original one.
+
+---
+
 ### 1. 🎵 Create a Spotify Developer App
 
 1. Go to the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/applications)
