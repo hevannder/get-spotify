@@ -21,7 +21,7 @@ jobs:
 
       - name: Clone the Python script repo
         run: |
-          git clone https://github.com/hevannder/get-spotify.git external-script
+          git clone https://github.com/hevannder/get-spotify-script.git external-script
 
       - name: Set up Python
         uses: actions/setup-python@v5
