@@ -76,7 +76,7 @@ Add one more repository secret:
 
 | Secret Name       | Description                      |
 |-------------------|----------------------------------|
-| `REFRESH_TOKEN`   | The refresh token from Step 3    |
+| `SPOTIPY_REFRESH_TOKEN`   | The refresh token from Step 3    |
 
 ---
 
